@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Snewify/static/css/main.dcd9a7fc.css",
+    "main.js": "/Snewify/static/js/main.cc9b72b4.js",
+    "static/js/453.938f5351.chunk.js": "/Snewify/static/js/453.938f5351.chunk.js",
+    "index.html": "/Snewify/index.html",
+    "main.dcd9a7fc.css.map": "/Snewify/static/css/main.dcd9a7fc.css.map",
+    "main.cc9b72b4.js.map": "/Snewify/static/js/main.cc9b72b4.js.map",
+    "453.938f5351.chunk.js.map": "/Snewify/static/js/453.938f5351.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd9a7fc.css",
+    "static/js/main.cc9b72b4.js"
+  ]
+}
